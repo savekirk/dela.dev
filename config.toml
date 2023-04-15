@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dela.dev/'
 languageCode = 'en-us'
 title = 'Dela Agbenyegah'
 theme = 'ink-free'
