@@ -1,4 +1,4 @@
-baseURL = 'https://dela.dev/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Dela Agbenyegah'
 theme = 'ink-free'
@@ -35,7 +35,7 @@ copyright = "© Dela Agbenyegah"
 	]
 
 	# Github base url
-	github = "https://github.com/chollinger93/ink-free"
+	github = "https://github.com/savekirk/dela.github.io"
 
 
 # Nav.
