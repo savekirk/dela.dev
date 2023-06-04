@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Dela Agbenyegah'
 theme = 'ink-free'
 copyright = "© Dela Agbenyegah"
-# Demo only
 #ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [permalinks]
@@ -30,9 +29,9 @@ copyright = "© Dela Agbenyegah"
 	wpm = 250
 
 	# Stupid footers :)
-	footers = [ 
-		
-	]
+	#footers = [ 
+	#	
+	#]
 
 	# Github base url
 	github = "https://github.com/savekirk/dela.github.io"
