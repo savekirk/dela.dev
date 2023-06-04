@@ -1,6 +1,7 @@
 ---
 title: "Hacking ExoPlayer Download Service"
 date: 2023-06-03T14:44:51+03:00
+description: "Use Android ExoPlayer download service and manager to download files that can be used outside ExoPlayer."
 categories: [software engineering]
 tags: [android,media]
 draft: false
