@@ -12,7 +12,7 @@ copyright = "© Dela Agbenyegah"
 	subtitle = "Welcome to my personal space."
 
 	# Optional 64x64 avatar image.
-	avatar = "https://github.com/savekirk/dela.github.io/blob/main/assets/images/me.jpg"
+	avatar = "https://raw.githubusercontent.com/savekirk/dela.github.io/main/assets/images/me.jpg"
 
 	featherIconsCDN = false
 
